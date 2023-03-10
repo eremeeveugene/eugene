@@ -1,3 +1,3 @@
 # eugene
 
-Hello! I'm Eugene! Software engineer and dreamer!
+Hello! I'm Eugene, software engineer and dreamer!
